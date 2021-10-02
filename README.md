@@ -1,1 +1,1 @@
-# SQLZOO-Solutions-
+# SQLZOO-Solutions
